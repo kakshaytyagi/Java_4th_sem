@@ -45,13 +45,6 @@ class Example {
         }
     }
 
-    public void findFinishTime(){
-        
-        for (int i = 1; i < n; i++)
-        {
-            ft[i] = 
-        }
-    }
     public void findWaitingTime() {
 
         wt[0] = 0;  // waiting time for first process is 0
